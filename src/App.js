@@ -1,7 +1,7 @@
 import React from 'react';
 import CheckBox from './components/CheckBox';
 
-import './App.css';
+
 
 function App() {
   return (
